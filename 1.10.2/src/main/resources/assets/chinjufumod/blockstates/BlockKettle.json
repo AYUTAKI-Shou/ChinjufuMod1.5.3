@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:BlockKettle", "y": 180 },
+    "facing=south": { "model": "chinjufumod:BlockKettle" },
+    "facing=west":  { "model": "chinjufumod:BlockKettle", "y": 90 },
+    "facing=east":  { "model": "chinjufumod:BlockKettle", "y": 270 }
+  }
+}

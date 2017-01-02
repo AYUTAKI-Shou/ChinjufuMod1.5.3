@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:BlockSChimney_joint", "y": 90 },
+    "facing=south": { "model": "chinjufumod:BlockSChimney_joint", "y": 270 },
+    "facing=west":  { "model": "chinjufumod:BlockSChimney_joint" },
+    "facing=east":  { "model": "chinjufumod:BlockSChimney_joint", "y": 180 }
+  }
+}

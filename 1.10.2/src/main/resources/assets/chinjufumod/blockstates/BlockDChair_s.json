@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:BlockDChair_s" },
+    "facing=south": { "model": "chinjufumod:BlockDChair_s", "y": 180 },
+    "facing=west":  { "model": "chinjufumod:BlockDChair_s", "y": 270 },
+    "facing=east":  { "model": "chinjufumod:BlockDChair_s", "y": 90 }
+  }
+}

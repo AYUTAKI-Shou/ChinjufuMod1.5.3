@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:BlockSchoolChair" },
+    "facing=south": { "model": "chinjufumod:BlockSchoolChair", "y": 180 },
+    "facing=west":  { "model": "chinjufumod:BlockSchoolChair", "y": 270 },
+    "facing=east":  { "model": "chinjufumod:BlockSchoolChair", "y": 90 }
+  }
+}

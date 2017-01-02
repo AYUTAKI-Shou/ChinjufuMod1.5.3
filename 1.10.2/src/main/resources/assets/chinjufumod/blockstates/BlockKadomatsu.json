@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:BlockKadomatsu", "y": 180 },
+    "facing=south": { "model": "chinjufumod:BlockKadomatsu" },
+    "facing=west":  { "model": "chinjufumod:BlockKadomatsu", "y": 90 },
+    "facing=east":  { "model": "chinjufumod:BlockKadomatsu", "y": 270 }
+  }
+}
