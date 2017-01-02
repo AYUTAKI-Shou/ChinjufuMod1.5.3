@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chinjufumod",
+  "name": "ChinjufuMod",
+  "description": "This is 'KantaiCollection' Fan Mod. KantaiCollection(DMM GAMES) http://www.dmm.com/netgame/feature/kancolle.html",
+  "version": "1.3.2.1",
+  "mcversion": "1.9.4",
+  "url": "My Blog http://ch.nicovideo.jp/ayutaki_s",
+  "updateUrl": "",
+  "authorList": ["Ayutaki Shou"],
+  "credits": "Thank you to those who are publishing MOD source code and those who upload maiking MOD videos.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

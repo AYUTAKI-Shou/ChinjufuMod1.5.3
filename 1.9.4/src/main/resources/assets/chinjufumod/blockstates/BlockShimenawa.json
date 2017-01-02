@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:BlockShimenawa", "y": 180 },
+    "facing=south": { "model": "chinjufumod:BlockShimenawa" },
+    "facing=west":  { "model": "chinjufumod:BlockShimenawa", "y": 90 },
+    "facing=east":  { "model": "chinjufumod:BlockShimenawa", "y": 270 }
+  }
+}

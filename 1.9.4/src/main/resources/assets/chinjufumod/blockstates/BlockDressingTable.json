@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:BlockDressingTable", "y": 180 },
+    "facing=south": { "model": "chinjufumod:BlockDressingTable" },
+    "facing=west":  { "model": "chinjufumod:BlockDressingTable", "y": 90 },
+    "facing=east":  { "model": "chinjufumod:BlockDressingTable", "y": 270 }
+  }
+}

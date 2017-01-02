@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "chinjufumod:Lit_BlockCStove" },
+        "facing=south": { "model": "chinjufumod:Lit_BlockCStove", "y": 180 },
+        "facing=west":  { "model": "chinjufumod:Lit_BlockCStove", "y": 270 },
+        "facing=east":  { "model": "chinjufumod:Lit_BlockCStove", "y": 90 }
+    }
+}

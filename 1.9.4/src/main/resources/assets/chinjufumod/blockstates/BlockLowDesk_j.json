@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:BlockLowDesk_j", "y": 180 },
+    "facing=south": { "model": "chinjufumod:BlockLowDesk_j" },
+    "facing=west":  { "model": "chinjufumod:BlockLowDesk_j", "y": 90 },
+    "facing=east":  { "model": "chinjufumod:BlockLowDesk_j", "y": 270 }
+  }
+}

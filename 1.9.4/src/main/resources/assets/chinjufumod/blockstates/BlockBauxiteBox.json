@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chinjufumod:BlockBauxiteBox", "y": 180 },
+    "facing=south": { "model": "chinjufumod:BlockBauxiteBox" },
+    "facing=west":  { "model": "chinjufumod:BlockBauxiteBox", "y": 90 },
+    "facing=east":  { "model": "chinjufumod:BlockBauxiteBox", "y": 270 }
+  }
+}
