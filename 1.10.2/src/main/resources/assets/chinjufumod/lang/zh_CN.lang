@@ -220,12 +220,12 @@ tile.mkasa_white.name=和傘ブロック(白)
 tile.mkasa_yellow.name=和傘ブロック(黄)
 
 #Seasons
-tile.kagamimochi.name=鏡餅
-tip.tile.kagamimochi.name=
-tile.shimenawa.name=稻草绳（祭神及新年时挂在门前的稻草绳）
-tip.tile.shimenawa.name=
+tile.kagamimochi.name=镜饼
+tip.tile.kagamimochi.name=供奉给神灵的扁圆形年糕
+tile.shimenawa.name=稻草绳
+tip.tile.shimenawa.name=祭神及新年时挂在门前的稻草绳
 tile.kadomatsu.name=门松
-tip.tile.kadomatsu.name=
+tip.tile.kadomatsu.name=由松枝，竹子做的装饰品，放在大门两侧，象征长寿
 
 
 #Tab

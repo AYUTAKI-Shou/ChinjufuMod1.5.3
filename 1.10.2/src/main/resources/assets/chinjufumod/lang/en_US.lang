@@ -219,9 +219,12 @@ tile.mkasa_white.name=WAGASABLOCK_white
 tile.mkasa_yellow.name=WAGASABLOCK_yellow
 
 #Seasons
-tile.kagamimochi.name=KAGAMIMOCHI
-tile.shimenawa.name=SHIMENAWA
-tile.kadomatsu.name=KADOMATSU
+tile.kagamimochi.name=Kagamimochi
+tip.tile.kagamimochi.name=A Traditional Japanese New Year Decoration
+tile.shimenawa.name=Shimenawa
+tile.shimenawa.name=Shimenawa Are Lengths Of Laid Rice Straw Rope Used For Ritual Purification In The Shinto Religion
+tile.kadomatsu.name=Kadomatsu
+tip.tile.kadomatsu.name=A Traditional Japanese Decoration Of The New Year Placed In Pairs In Front Of Homes To Welcome Ancestral Spirits Or Kami Of The Harvest
 
 #Tab
-itemGroup.tabChinjufuMod=CHINJUFU_MOD
+itemGroup.tabChinjufuMod=Chinjufu
