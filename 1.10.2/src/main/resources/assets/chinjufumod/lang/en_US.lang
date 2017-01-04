@@ -52,7 +52,7 @@ tile.lowdesk_d.name=Low Desk(Bigoak)
 tile.lowdesk_j.name=Low Desk(Jungle)
 tile.lowdesk_s.name=Low Desk(Spruce)
 
-tile.lettertray_c.name=Penset
+tile.lettertray_c.name=Pen Set
 tile.letterdesk_ac.name=Letter Desk(Acacia)
 tile.letterdesk_bc.name=Letter Desk(Birch)
 tile.letterdesk_dc.name=Letter Desk(Bigoak)
@@ -60,7 +60,7 @@ tile.letterdesk_jc.name=Letter Desk(Jungle)
 tile.letterdesk_oc.name=Letter Desk(Oak)
 tile.letterdesk_sc.name=Letter Desk(Spruce)
 
-tile.fudetray_c.name=Fundset
+tile.fudetray_c.name=Fude Set
 tile.fudedesk_ac.name=Fude Desk(Acacia)
 tile.fudedesk_bc.name=Fude Desk(Birch)
 tile.fudedesk_dc.name=Fude Desk(Bigoak)
@@ -162,9 +162,9 @@ tile.BlockCStove.name=Stove
 container.cstove=Stove(Inside)
 tile.kettle.name=Kettle Block
 
-tile.schimney_joint.name=Stovechimney(Joint)
-tile.stovechimney.name=Stovechimney
-tile.stovechimney_topk.name=Stovechimney(Top_u)
+tile.schimney_joint.name=Stove Chimney(Joint)
+tile.stovechimney.name=Stove Chimney
+tile.stovechimney_topk.name=Stove Chimney(Top_u)
 
 #Mamiya
 tile.mendai.name=Endai
