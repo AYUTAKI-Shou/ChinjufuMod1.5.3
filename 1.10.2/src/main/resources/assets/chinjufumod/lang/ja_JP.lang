@@ -221,8 +221,11 @@ tile.mkasa_yellow.name=和傘ブロック(黄)
 
 #Seasons
 tile.kagamimochi.name=鏡餅
+tip.tile.kagamimochi.name=
 tile.shimenawa.name=しめ縄
+tip.tile.shimenawa.name=
 tile.kadomatsu.name=門松
+tip.tile.kadomatsu.name=
 
 
 #Tab
