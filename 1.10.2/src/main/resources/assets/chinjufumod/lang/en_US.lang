@@ -1,222 +1,222 @@
 #Block
-tile.empty_box.name=EMPTY_BOX
-tile.oil_drum.name=OIL_DRUM
-tile.ammunition_box.name=AMMUNITION_BOX
-tile.steel_block.name=STEEL_BLOCK
-tile.bauxite_box.name=BAUXITE_BOX
-tile.stamp_block.name=ADMIRALSTAMP_block
+tile.empty_box.name=Empty Box
+tile.oil_drum.name=Oil Drum
+tile.ammunition_box.name=Ammunition Box
+tile.steel_block.name=Steel Block
+tile.bauxite_box.name=Bauxite Box
+tile.stamp_block.name=Admiral's Stamp
 
-tile.bauxite_ore.name=BAUXITE_ORE
+tile.bauxite_ore.name=Bauxite Ore
 
 
 #Item
-item.emblem_c.name=CHINJUFU_EMBLEM
-item.admiral_stamp.name=ADMIRALSTAMP_item
-item.work_order.name=CRAFT_ORDER
-item.bauxite.name=BAUXITE
-item.sumi_c.name=SUMI
+item.emblem_c.name=Chinjufu Emblem
+item.admiral_stamp.name=Admiral's Stamp
+item.work_order.name=Craft Oreder
+item.bauxite.name=Bauxite
+item.sumi_c.name=Sumi
 
 #Weapon
-item.ammunition_kc.name=AMMUNITION
-item.cartridge_kc.name=CARTRIDGE
-item.rensouhou127.name=12.7cmRENSOUHOU
-item.shigurehou.name=SHIGUREHOU
-item.koukakuhou100.name=10.0cmKOUKAKUHOU
+item.ammunition_kc.name=Ammunition
+item.cartridge_kc.name=Cartridge
+item.rensouhou127.name=12.7cm Rensouhou
+item.shigurehou.name=Shigurehou
+item.koukakuhou100.name=10.0cm Koukakuhou
 
 #Armor
-item.fubuki_helmet.name=FUBUKI_HELMET
-item.fubuki_chestplate.name=FUBUKI_CHESTPLATE
-item.fubuki_leggings.name=FUBUKI_LEGGINGS
-item.fubuki_boots.name=FUBUKI_BOOTS
+item.fubuki_helmet.name=Fubuki Helmet
+item.fubuki_chestplate.name=Fubuki Chestplate
+item.fubuki_leggings.name=Fubuki Leggings
+item.fubuki_boots.name=Fubuki Boots
 
-item.kasumi_helmet.name=KASUMI_HELMET
-item.kasumi_chestplate.name=KASUMI_CHESTPLATE
-item.kasumi_leggings.name=KASUMI_LEGGINGS
-item.kasumi_boots.name=KASUMI_BOOTS
+item.kasumi_helmet.name=Kasumi Helmet
+item.kasumi_chestplate.name=Kasumi Chestplate
+item.kasumi_leggings.name=Kasumi Leggings
+item.kasumi_boots.name=Kasumi Boots
 
-item.shigure_helmet.name=SHIGURE_HELMET
-item.shigure_chestplate.name=SHIGURE_CHESTPLATE
-item.shigure_leggings.name=SHIGURE_LEGGINGS
-item.shigure_boots.name=SHIGURE_BOOTS
+item.shigure_helmet.name=Shigure Helmet
+item.shigure_chestplate.name=Shigure Chestplate
+item.shigure_leggings.name=Shigure Leggings
+item.shigure_boots.name=Shigure Boots
 
-item.shiratsuyu_helmet.name=SHIRATSUYU_HELMET
-item.shiratsuyu_chestplate.name=SHIRATSUYU_CHESTPLATE
-item.shiratsuyu_leggings.name=SHIRATSUYU_LEGGINGS
-item.shiratsuyu_boots.name=SHIRATSUYU_BOOTS
+item.shiratsuyu_helmet.name=Shiratsuyu Helmet
+item.shiratsuyu_chestplate.name=Shiratsuyu Chestplate
+item.shiratsuyu_leggings.name=Shiratsuyu Leggings
+item.shiratsuyu_boots.name=Shiratsuyu Boots
 
 #LetterTray
-tile.lowdesk.name=LOWDESK
-tile.lowdesk_a.name=LOWDESK_acacia
-tile.lowdesk_b.name=LOWDESK_birch
-tile.lowdesk_d.name=LOWDESK_bigoak
-tile.lowdesk_j.name=LOWDESK_jungle
-tile.lowdesk_s.name=LOWDESK_spruce
+tile.lowdesk.name=Low Desk
+tile.lowdesk_a.name=Low Desk(Acacia)
+tile.lowdesk_b.name=Low Desk(Birch)
+tile.lowdesk_d.name=Low Desk(Bigoak)
+tile.lowdesk_j.name=Low Desk(Jungle)
+tile.lowdesk_s.name=Low Desk(Spruce)
 
-tile.lettertray_c.name=PENSET
-tile.letterdesk_ac.name=LETTERDESK_acacia
-tile.letterdesk_bc.name=LETTERDESK_birch
-tile.letterdesk_dc.name=LETTERDESK_bigoak
-tile.letterdesk_jc.name=LETTERDESK_jungle
-tile.letterdesk_oc.name=LETTERDESK_oak
-tile.letterdesk_sc.name=LETTERDESK_spruce
+tile.lettertray_c.name=Penset
+tile.letterdesk_ac.name=Letter Desk(Acacia)
+tile.letterdesk_bc.name=Letter Desk(Birch)
+tile.letterdesk_dc.name=Letter Desk(Bigoak)
+tile.letterdesk_jc.name=Letter Desk(Jungle)
+tile.letterdesk_oc.name=Letter Desk(Oak)
+tile.letterdesk_sc.name=Letter Desk(Spruce)
 
-tile.fudetray_c.name=FUDESET
-tile.fudedesk_ac.name=FUDEDESK_acacia
-tile.fudedesk_bc.name=FUDEDESK_birch
-tile.fudedesk_dc.name=FUDEDESK_bigoak
-tile.fudedesk_jc.name=FUDEDESK_jungle
-tile.fudedesk_oc.name=FUDEDESK_oak
-tile.fudedesk_sc.name=FUDEDESK_spruce
+tile.fudetray_c.name=Fundset
+tile.fudedesk_ac.name=Fude Desk(Acacia)
+tile.fudedesk_bc.name=Fude Desk(Birch)
+tile.fudedesk_dc.name=Fude Desk(Bigoak)
+tile.fudedesk_jc.name=Fude Desk(Jungle)
+tile.fudedesk_oc.name=Fude Desk(Oak)
+tile.fudedesk_sc.name=Fude Desk(Spruce)
 
 #Funiture
-tile.admiralchair.name=ADMIRALCHAIR
-tile.admiralchair_red.name=ADMIRALCHAIR_red
+tile.admiralchair.name=Admiral Chair
+tile.admiralchair_red.name=Admiral Chair(Red)
 
-tile.unitdesk.name=UNITDESK
-tile.unitdesk_a.name=UNITDESK_acacia
-tile.unitdesk_b.name=UNITDESK_birch
-tile.unitdesk_d.name=UNITDESK_bigoak
-tile.unitdesk_j.name=UNITDESK_jungle
-tile.unitdesk_s.name=UNITDESK_spruce
+tile.unitdesk.name=Unit Desk
+tile.unitdesk_a.name=Unit Desk(Acacia)
+tile.unitdesk_b.name=Unit Desk(Birch)
+tile.unitdesk_d.name=Unit Desk(Bigoak)
+tile.unitdesk_j.name=Unit Desk(Jungle)
+tile.unitdesk_s.name=Unit Desk(Spruce)
 
-tile.dressingtable.name=DRESSINGTABLE
-tile.dressingtable_a.name=DRESSINGTABLE_acacia
-tile.dressingtable_b.name=DRESSINGTABLE_birch
-tile.dressingtable_d.name=DRESSINGTABLE_bigoak
-tile.dressingtable_j.name=DRESSINGTABLE_jungle
-tile.dressingtable_s.name=DRESSINGTABLE_spruce
+tile.dressingtable.name=Dressing Table
+tile.dressingtable_a.name=Dressing Table(Acacia)
+tile.dressingtable_b.name=Dressing Table(Birch)
+tile.dressingtable_d.name=Dressing Table(Bigoak)
+tile.dressingtable_j.name=Dressing Table(Jungle)
+tile.dressingtable_s.name=Dressing Table(Spruce)
 
-tile.diningchair.name=DININGCHAIR
-tile.diningchair_a.name=DININGCHAIR_acacia
-tile.diningchair_b.name=DININGCHAIR_birch
-tile.diningchair_d.name=DININGCHAIR_bigoak
-tile.diningchair_j.name=DININGCHAIR_jungle
-tile.diningchair_s.name=DININGCHAIR_spruce
+tile.diningchair.name=Dining Chair
+tile.diningchair_a.name=Dining Chair(Acacia)
+tile.diningchair_b.name=Dining Chair(Birch)
+tile.diningchair_d.name=Dining Chair(Bigoak)
+tile.diningchair_j.name=Dining Chair(Jungle)
+tile.diningchair_s.name=Dining Chair(Spruce)
 
-tile.cafechair_black.name=CAFECHAIR_black
-tile.cafechair_blue.name=CAFECHAIR_blue
-tile.cafechair_brown.name=CAFECHAIR_brown
-tile.cafechair_cyan.name=CAFECHAIR_cyan
-tile.cafechair_gray.name=CAFECHAIR_gray
-tile.cafechair_green.name=CAFECHAIR_green
-tile.cafechair_lightb.name=CAFECHAIR_lightblue
-tile.cafechair_lightg.name=CAFECHAIR_silver
-tile.cafechair_lime.name=CAFECHAIR_lime
-tile.cafechair_magenta.name=CAFECHAIR_magenta
-tile.cafechair_orange.name=CAFECHAIR_orange
-tile.cafechair_pink.name=CAFECHAIR_pink
-tile.cafechair_purple.name=CAFECHAIR_purple
-tile.cafechair_red.name=CAFECHAIR_red
-tile.cafechair_white.name=CAFECHAIR_white
-tile.cafechair_yellow.name=CAFECHAIR_yellow
+tile.cafechair_black.name=Cafe Chair(Black)
+tile.cafechair_blue.name=Cafe Chair(Blue)
+tile.cafechair_brown.name=Cafe Chair(Brown)
+tile.cafechair_cyan.name=Cafe Chair(Cyan)
+tile.cafechair_gray.name=Cafe Chair(Gray)
+tile.cafechair_green.name=Cafe Chair(Green)
+tile.cafechair_lightb.name=Cafe Chair(Lightblue)
+tile.cafechair_lightg.name=Cafe Chair(Silver)
+tile.cafechair_lime.name=Cafe Chair(Lime)
+tile.cafechair_magenta.name=Cafe Chair(Magenta)
+tile.cafechair_orange.name=Cafe Chair(Orange)
+tile.cafechair_pink.name=Cafe Chair(Pink)
+tile.cafechair_purple.name=Cafe Chair(Purple)
+tile.cafechair_red.name=Cafe Chair(Red)
+tile.cafechair_white.name=Cafe Chair(White)
+tile.cafechair_yellow.name=Cafe Chair(Yellow)
 
-tile.zaisu_black.name=ZAISU_black
-tile.zaisu_blue.name=ZAISU_blue
-tile.zaisu_brown.name=ZAISU_brown
-tile.zaisu_cyan.name=ZAISU_cyan
-tile.zaisu_gray.name=ZAISU_gray
-tile.zaisu_green.name=ZAISU_green
-tile.zaisu_lightb.name=ZAISU_lightblue
-tile.zaisu_lightg.name=ZAISU_silver
-tile.zaisu_lime.name=ZAISU_lime
-tile.zaisu_magenta.name=ZAISU_magenta
-tile.zaisu_orange.name=ZAISU_orange
-tile.zaisu_pink.name=ZAISU_pink
-tile.zaisu_purple.name=ZAISU_purple
-tile.zaisu_red.name=ZAISU_red
-tile.zaisu_white.name=ZAISU_white
-tile.zaisu_yellow.name=ZAISU_yellow
+tile.zaisu_black.name=Zaisu(Black)
+tile.zaisu_blue.name=Zaisu(Blue)
+tile.zaisu_brown.name=Zaisu(Brown)
+tile.zaisu_cyan.name=Zaisu(Cyan)
+tile.zaisu_gray.name=Zaisu(Gray)
+tile.zaisu_green.name=Zaisu(Green)
+tile.zaisu_lightb.name=Zaisu(Lightblue)
+tile.zaisu_lightg.name=Zaisu(Silver)
+tile.zaisu_lime.name=Zaisu(Lime)
+tile.zaisu_magenta.name=Zaisu(Magenta)
+tile.zaisu_orange.name=Zaisu(Orange)
+tile.zaisu_pink.name=Zaisu(Pink)
+tile.zaisu_purple.name=Zaisu(Purple)
+tile.zaisu_red.name=Zaisu(Red)
+tile.zaisu_white.name=Zaisu(White)
+tile.zaisu_yellow.name=Zaisu(Yellow)
 
 #Scool
-tile.blackboard.name=BLACKBOARD
+tile.blackboard.name=Blackboard
 
-tile.schoolchair.name=SCHOOLCHAIR
-tile.schoolchair_a.name=SCHOOLCHAIR_acacia
-tile.schoolchair_b.name=SCHOOLCHAIR_birch
-tile.schoolchair_d.name=SCHOOLCHAIR_bigoak
-tile.schoolchair_j.name=SCHOOLCHAIR_jungle
-tile.schoolchair_s.name=SCHOOLCHAIR_spruce
+tile.schoolchair.name=School Chair
+tile.schoolchair_a.name=School Chair(Acacia)
+tile.schoolchair_b.name=School Chair(Birch)
+tile.schoolchair_d.name=School Chair(Bigoak)
+tile.schoolchair_j.name=School Chair(Jungle)
+tile.schoolchair_s.name=School Chair(Spruce)
 
-tile.schooldesk.name=SCHOOLDESK
-tile.schooldesk_a.name=SCHOOLDESK_acacia
-tile.schooldesk_b.name=SCHOOLDESK_birch
-tile.schooldesk_d.name=SCHOOLDESK_bigoak
-tile.schooldesk_j.name=SCHOOLDESK_jungle
-tile.schooldesk_s.name=SCHOOLDESK_spruce
+tile.schooldesk.name=School Desk
+tile.schooldesk_a.name=School Desk(Acacia)
+tile.schooldesk_b.name=School Desk(Birch)
+tile.schooldesk_d.name=School Desk(Bigoak)
+tile.schooldesk_j.name=School Desk(Jungle)
+tile.schooldesk_s.name=School Desk(Spruce)
 
-tile.teacherdesk.name=TEACHERDESK
-tile.teacherdesk_a.name=TEACHERDESK_acacia
-tile.teacherdesk_b.name=TEACHERDESK_birch
-tile.teacherdesk_d.name=TEACHERDESK_bigoak
-tile.teacherdesk_j.name=TEACHERDESK_jungle
-tile.teacherdesk_s.name=TEACHERDESK_spruce
+tile.teacherdesk.name=Teacher Desk
+tile.teacherdesk_a.name=Teacher Desk(Acacia)
+tile.teacherdesk_b.name=Teacher Desk(Birch)
+tile.teacherdesk_d.name=Teacher Desk(Bigoak)
+tile.teacherdesk_j.name=Teacher Desk(Jungle)
+tile.teacherdesk_s.name=Teacher Desk(Spruce)
 
-tile.window.name=WINDOW
-tile.window_a.name=WINDOW_acacia
-tile.window_b.name=WINDOW_birch
-tile.window_d.name=WINDOW_bigoak
-tile.window_j.name=WINDOW_jungle
-tile.window_s.name=WINDOW_spruce
+tile.window.name=Window
+tile.window_a.name=Window(Acacia)
+tile.window_b.name=Window(Birch)
+tile.window_d.name=Window(Bigoak)
+tile.window_j.name=Window(Jungle)
+tile.window_s.name=Window(Spruce)
 
-tile.BlockCStove.name=STOVE
-container.cstove=STOVE_inside
-tile.kettle.name=KETTLE_block
+tile.BlockCStove.name=Stove
+container.cstove=Stove(Inside)
+tile.kettle.name=Kettle Block
 
-tile.schimney_joint.name=STOVECHIMNEY_joint
-tile.stovechimney.name=STOVECHIMNEY
-tile.stovechimney_topk.name=STOVECHIMNEYTOP_u
+tile.schimney_joint.name=Stovechimney(Joint)
+tile.stovechimney.name=Stovechimney
+tile.stovechimney_topk.name=Stovechimney(Top_u)
 
 #Mamiya
-tile.mendai.name=ENDAI
-tile.mendai_red.name=ENDAI_red
+tile.mendai.name=Endai
+tile.mendai_red.name=Endai(Red)
 
-tile.mzabuton_black.name=ZABUTON_black
-tile.mzabuton_blue.name=ZABUTON_blue
-tile.mzabuton_brown.name=ZABUTON_brown
-tile.mzabuton_cyan.name=ZABUTON_cyan
-tile.mzabuton_gray.name=ZABUTON_gray
-tile.mzabuton_green.name=ZABUTON_green
-tile.mzabuton_lightb.name=ZABUTON_lightblue
-tile.mzabuton_lightg.name=ZABUTON_silver
-tile.mzabuton_lime.name=ZABUTON_lime
-tile.mzabuton_magenta.name=ZABUTON_magenta
-tile.mzabuton_orange.name=ZABUTON_orange
-tile.mzabuton_pink.name=ZABUTON_pink
-tile.mzabuton_purple.name=ZABUTON_purple
-tile.mzabuton_red.name=ZABUTON_red
-tile.mzabuton_white.name=ZABUTON_white
-tile.mzabuton_yellow.name=ZABUTON_yellow
+tile.mzabuton_black.name=Zabuton(Black)
+tile.mzabuton_blue.name=Zabuton(Blue)
+tile.mzabuton_brown.name=Zabuton(Brown)
+tile.mzabuton_cyan.name=Zabuton(Cyan)
+tile.mzabuton_gray.name=Zabuton(Gray)
+tile.mzabuton_green.name=Zabuton(green
+tile.mzabuton_lightb.name=Zabuton(Lightblue)
+tile.mzabuton_lightg.name=Zabuton(Silver)
+tile.mzabuton_lime.name=Zabuton(Lime)
+tile.mzabuton_magenta.name=Zabuton(Magenta)
+tile.mzabuton_orange.name=Zabuton(Orange)
+tile.mzabuton_pink.name=Zabuton(Pink)
+tile.mzabuton_purple.name=Zabuton(Purple)
+tile.mzabuton_red.name=Zabuton(Red)
+tile.mzabuton_white.name=Zabuton(White)
+tile.mzabuton_yellow.name=Zabuton(Yellow)
 
-tile.cafetable.name=CAFETABLE
-tile.cafetable_a.name=CAFETABLE_acacia
-tile.cafetable_b.name=CAFETABLE_birch
-tile.cafetable_d.name=CAFETABLE_bigoak
-tile.cafetable_j.name=CAFETABLE_jungle
-tile.cafetable_s.name=CAFETABLE_spruce
+tile.cafetable.name=Cafe Table
+tile.cafetable_a.name=Cafe Table(Acacia)
+tile.cafetable_b.name=Cafe Table(Birch)
+tile.cafetable_d.name=Cafe Table(Bigoak)
+tile.cafetable_j.name=Cafe Table(Jungle)
+tile.cafetable_s.name=Cafe Table(Spruce)
 
-tile.logchair.name=LOGCHAIR
-tile.logchair_a.name=LOGCHAIR_acacia
-tile.logchair_b.name=LOGCHAIR_birch
-tile.logchair_d.name=LOGCHAIR_bigoak
-tile.logchair_j.name=LOGCHAIR_jungle
-tile.logchair_s.name=LOGCHAIR_spruce
+tile.logchair.name=Log Chair
+tile.logchair_a.name=Log Chair(Acacia)
+tile.logchair_b.name=Log Chair(Birch)
+tile.logchair_d.name=Log Chair(Bigoak)
+tile.logchair_j.name=Log Chair(Jungle)
+tile.logchair_s.name=Log Chair(Spruce)
 
-tile.mkasa_black.name=WAGASABLOCK_black
-tile.mkasa_blue.name=WAGASABLOCK_blue
-tile.mkasa_brown.name=WAGASABLOCK_brown
-tile.mkasa_cyan.name=WAGASABLOCK_cyan
-tile.mkasa_gray.name=WAGASABLOCK_gray
-tile.mkasa_green.name=WAGASABLOCK_green
-tile.mkasa_lightb.name=WAGASABLOCK_lightblue
-tile.mkasa_lightg.name=WAGASABLOCK_silver
-tile.mkasa_lime.name=WAGASABLOCK_lime
-tile.mkasa_magenta.name=WAGASABLOCK_magenta
-tile.mkasa_orange.name=WAGASABLOCK_orange
-tile.mkasa_pink.name=WAGASABLOCK_pink
-tile.mkasa_purple.name=WAGASABLOCK_purple
-tile.mkasa_red.name=WAGASABLOCK_red
-tile.mkasa_white.name=WAGASABLOCK_white
-tile.mkasa_yellow.name=WAGASABLOCK_yellow
+tile.mkasa_black.name=Wagasa Block(Black)
+tile.mkasa_blue.name=Wagasa Block(Blue)
+tile.mkasa_brown.name=Wagasa Block(Brown)
+tile.mkasa_cyan.name=Wagasa Block(Cyan)
+tile.mkasa_gray.name=Wagasa Block(Gray)
+tile.mkasa_green.name=Wagasa (Green)
+tile.mkasa_lightb.name=Wagasa Block(Lightblue)
+tile.mkasa_lightg.name=Wagasa Block(Silver)
+tile.mkasa_lime.name=Wagasa Block(Lime)
+tile.mkasa_magenta.name=Wagasa Block(Magenta)
+tile.mkasa_orange.name=Wagasa Block(Orange)
+tile.mkasa_pink.name=Wagasa Block(Pink)
+tile.mkasa_purple.name=Wagasa Block(Purple)
+tile.mkasa_red.name=Wagasa Block(Red)
+tile.mkasa_white.name=Wagasa Block(White)
+tile.mkasa_yellow.name=Wagasa Block(Yellow)
 
 #Seasons
 tile.kagamimochi.name=Kagamimochi

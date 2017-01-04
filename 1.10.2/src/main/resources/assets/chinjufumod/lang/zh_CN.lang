@@ -17,8 +17,8 @@ item.bauxite.name=ボーキサイト
 item.sumi_c.name=墨
 
 #Weapon
-item.ammunition_kc.name=弾薬
-item.cartridge_kc.name=空薬莢
+item.ammunition_kc.name=弹药
+item.cartridge_kc.name=空弹壳
 item.rensouhou127.name=12.7cm連装砲
 item.shigurehou.name=時雨砲
 item.koukakuhou100.name=10.0cm連装高角砲
